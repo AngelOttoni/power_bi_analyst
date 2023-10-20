@@ -1,3 +1,6 @@
-# power_bi_analyst
+# Santander Bootcamp 2023 - Data Science with Python
 
-Repositório relacionado a formação de Power BI Analyst
+## Power BI Analyst
+
+[Juliana Mascarenhas](https://github.com/julianazanelatto)
+Tech Education Specialist [DIO](https://www.dio.me/en)
